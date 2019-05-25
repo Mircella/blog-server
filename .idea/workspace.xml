@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68af9280-b653-4cd9-a031-27a44874d5df" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/movieserver/.gradle/" />
+    <ignored path="$PROJECT_DIR$/movieserver/build/" />
+    <ignored path="$PROJECT_DIR$/movieserver/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="movieserver@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="movieserver@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="movieserver@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="movieserver: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="movieserver@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="movieserver: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/movieserver">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="blogserver" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/VideoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/videodto/VideoDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/BlogHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/blogpost/BlogPostDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/BlogPostService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/ForumHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="25" column="47" selection-start-line="24" selection-start-column="8" selection-end-line="25" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/forum/forumtopic/ForumTopicDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/VideoHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/ForumService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Standa</find>
+      <find>Datetimef</find>
+      <find>newb</find>
+      <find>new</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/repository/ForumTopicRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/forumdto/TopicPostCreateDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/forum/topicpost/TopicPost.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/ForumHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/forum/forumtopic/ForumTopic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/forum/forumtopic/ForumTopicDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/forum/topicpost/TopicPostDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/BlogMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/UserProfileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/ForumMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/ForumService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/repository/BlogImageRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/BlogPostHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/BlogPostService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/forum/forumtopic/ForumTopicDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/blogpost/BlogPostDto.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/MovieserverApplication.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/model/Dvd.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/repository/MovideRepository.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/repository/MovieRepository.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/repository/StreamStore.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/movieserver/build.gradle" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/resources/changelog/notifications-server/movieserver.changelog.xml" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/resources/changelog/movieserver/changelog/movieserver.changelog-1.0.xml" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/model/Stream.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/model/Image.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/resources/db/changelog/movieserver/changelog/movieserver.changelog-1.0.xml" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/service/MovieService.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/repository/ImageStore.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/web/MovieController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/avatar/Avatar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/model/Image.java" />
+        <option value="$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/model/Movie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/model/Movie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/model/Video.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/videodto/VideoCreateDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/video/Video.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/repository/VideoRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/videodto/VideoDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/user/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/BlogServerRouter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/videodto/VideoItemDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/VideoHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/ForumHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/blogpost/BlogPostDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/BlogHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/VideoHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/VideoService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="120" />
+    <option name="y" value="136" />
+    <option name="width" value="1507" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="avatar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="blogpost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="video" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="blogdto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="videodto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogserver" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blogserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551287949875" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="kz.mircella.blogserver.web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/movieserver/src/main/resources/db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model" />
+      <recent name="$PROJECT_DIR$/movieserver/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogserverApplication">
+    <configuration name="BlogserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kz.mircella.blogserver.BlogserverApplication" />
+      <module name="kz.mircella.blogserver.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kz.mircella.blogserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveStreamsTest.assertFluxWithVirtualTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kz.mircella.blogserver.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kz.mircella.blogserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kz.mircella.blogserver" />
+      <option name="MAIN_CLASS_NAME" value="kz.mircella.blogserver.ReactiveStreamsTest" />
+      <option name="METHOD_NAME" value="assertFluxWithVirtualTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveStreamsTest.assertLongFluxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kz.mircella.blogserver.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kz.mircella.blogserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kz.mircella.blogserver" />
+      <option name="MAIN_CLASS_NAME" value="kz.mircella.blogserver.ReactiveStreamsTest" />
+      <option name="METHOD_NAME" value="assertLongFluxTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveStreamsTest.fluxFromValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kz.mircella.blogserver.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kz.mircella.blogserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kz.mircella.blogserver" />
+      <option name="MAIN_CLASS_NAME" value="kz.mircella.blogserver.ReactiveStreamsTest" />
+      <option name="METHOD_NAME" value="fluxFromValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveStreamsTest.monoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kz.mircella.blogserver.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kz.mircella.blogserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kz.mircella.blogserver" />
+      <option name="MAIN_CLASS_NAME" value="kz.mircella.blogserver.ReactiveStreamsTest" />
+      <option name="METHOD_NAME" value="monoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kz.mircella.blogserver.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.mircella.blogserver.BlogserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movieserver.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.mircella.movieserver.MovieserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlogserverApplication" />
+        <item itemvalue="JUnit.ReactiveStreamsTest.assertFluxWithVirtualTime" />
+        <item itemvalue="JUnit.ReactiveStreamsTest.assertLongFluxTest" />
+        <item itemvalue="JUnit.ReactiveStreamsTest.monoTest" />
+        <item itemvalue="JUnit.ReactiveStreamsTest.fluxFromValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68af9280-b653-4cd9-a031-27a44874d5df" name="Default Changelist" comment="" />
+      <created>1545823091917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545823091917</updated>
+      <workItem from="1545823094754" duration="1328000" />
+      <workItem from="1545986082058" duration="554000" />
+      <workItem from="1545995402735" duration="10000" />
+      <workItem from="1546267320491" duration="21116000" />
+      <workItem from="1546504042247" duration="311000" />
+      <workItem from="1546540696838" duration="13954000" />
+      <workItem from="1546847328051" duration="968000" />
+      <workItem from="1546886401359" duration="132000" />
+      <workItem from="1548056911843" duration="282000" />
+      <workItem from="1548065463880" duration="791000" />
+      <workItem from="1548135210588" duration="1545000" />
+      <workItem from="1548233798247" duration="599000" />
+      <workItem from="1548270167376" duration="243000" />
+      <workItem from="1548390453653" duration="2359000" />
+      <workItem from="1548822559451" duration="1389000" />
+      <workItem from="1548873945813" duration="5257000" />
+      <workItem from="1548952834278" duration="2540000" />
+      <workItem from="1549650036885" duration="1050000" />
+      <workItem from="1549871919166" duration="321000" />
+      <workItem from="1550300455784" duration="1152000" />
+      <workItem from="1550687459572" duration="1405000" />
+      <workItem from="1551073747884" duration="260000" />
+      <workItem from="1551198501697" duration="5730000" />
+      <workItem from="1555133928092" duration="21273000" />
+      <workItem from="1555219768777" duration="3724000" />
+      <workItem from="1555876453773" duration="4078000" />
+      <workItem from="1555989511043" duration="722000" />
+      <workItem from="1556043433264" duration="148000" />
+      <workItem from="1556249973088" duration="430000" />
+      <workItem from="1556438134588" duration="420000" />
+      <workItem from="1556689858802" duration="184000" />
+      <workItem from="1556731589896" duration="5780000" />
+      <workItem from="1556861585338" duration="8948000" />
+      <workItem from="1558029181514" duration="681000" />
+      <workItem from="1558761835311" duration="1175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReactiveStreamsTest_assertLongFluxTest - 2018.12.27 at 20h 31m 38s.xml">
+      <configuration name="ReactiveStreamsTest.assertLongFluxTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertLongFluxTest - 2018.12.27 at 20h 32m 00s.xml">
+      <configuration name="ReactiveStreamsTest.assertLongFluxTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertLongFluxTest - 2018.12.27 at 20h 32m 12s.xml">
+      <configuration name="ReactiveStreamsTest.assertLongFluxTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertLongFluxTest - 2018.12.27 at 20h 33m 11s.xml">
+      <configuration name="ReactiveStreamsTest.assertLongFluxTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertFluxWithVirtualTime - 2018.12.28 at 06h 05m 35s.xml">
+      <configuration name="ReactiveStreamsTest.assertFluxWithVirtualTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertFluxWithVirtualTime - 2018.12.28 at 06h 08m 09s.xml">
+      <configuration name="ReactiveStreamsTest.assertFluxWithVirtualTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertFluxWithVirtualTime - 2018.12.28 at 06h 08m 39s.xml">
+      <configuration name="ReactiveStreamsTest.assertFluxWithVirtualTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertFluxWithVirtualTime - 2018.12.28 at 06h 09m 26s.xml">
+      <configuration name="ReactiveStreamsTest.assertFluxWithVirtualTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertFluxWithVirtualTime - 2018.12.28 at 06h 09m 39s.xml">
+      <configuration name="ReactiveStreamsTest.assertFluxWithVirtualTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReactiveStreamsTest_assertFluxWithVirtualTime - 2019.01.01 at 13h 33m 59s.xml">
+      <configuration name="ReactiveStreamsTest.assertFluxWithVirtualTime" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110859000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="120" y="136" width="1507" height="806" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20819113" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49921995" weight="0.32706222" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3241627" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49843994" weight="0.41099855" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32706222" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Docker" order="10" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015601" side_tool="true" weight="0.41267943" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.3299566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.32605305" />
+      <window_info anchor="right" id="Database" order="8" weight="0.16928327" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.3299532" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/service/MovieService.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/service/MovieService.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>users.cast(UserProfile.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userRepository.findAll().subscribe(new Consumer&lt;User&gt;() {
+    @Override
+    public void accept(User user) {
+        String login = user.id;
+    }
+});</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.function.Consumer,kz.mircella.blogserver.domain.model.user.User</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>forumSectionMono.block()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>forumSection</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>forumSectionRepository.findAll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>user.getAvatar()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>baos.toByteArray().lengt1h</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>baos.toByteArray().length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>avatarContentType</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>baos.toByteArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>avatarRepository.findAll().</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.6.RELEASE/dfb9e2cce0376ed468b6988b88a08fa7fb43f355/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/http/ResponseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+          <folding>
+            <element signature="e#3130#3131#0" expanded="true" />
+            <element signature="e#3161#3162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.3.RELEASE/2fca1f1b82d5f3f3275d68a231ae6481facb0952/spring-data-mongodb-2.1.3.RELEASE-sources.jar!/org/springframework/data/mongodb/core/mapping/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieserver/gradlew" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.4/ff45275b27cd70c701abed8e53e3b9f20806345b/lombok-1.18.4-sources.jar!/lombok/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieserver/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/resources/db/changelog/db.changelog-master.yaml" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/resources/db/changelog/movieserver/movieserver.changelog.xml" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.2.Final/604e1101cb261c61200bfd655dfc1aa5aeca36d6/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/OneToOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="108" column="18" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/model/Stream.java" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/model/Image.java" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/resources/db/changelog/movieserver/changelog/movieserver.changelog-1.0.xml" />
+    <entry file="das://4092594f-2c1a-4be6-bc4b-105d1fa30ebe/database/movieserver/schema/public/table/images">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4092594f-2c1a-4be6-bc4b-105d1fa30ebe/database/movieserver/schema/public/table/streams">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4092594f-2c1a-4be6-bc4b-105d1fa30ebe/database/movieserver/schema/public/table/movies">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/repository/BlogImageContentStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/repository/StreamStore.java" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/MovieserverApplication.java" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/web/MovieController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/model/Stream.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/model/Image.java" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/model/Movie.java" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/repository/ImageStore.java" />
+    <entry file="file://$PROJECT_DIR$/movieserver/src/main/java/kz/mircella/movieserver/service/MovieService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/avatar/Avatar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/blogdto/BlogPostCreateDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="77" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/repository/BlogImageRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/UserProfileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="64" column="45" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/UserProfileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/video/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/repository/BlogPostRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/blogpost/BlogPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/repository/VideoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/BlogServerRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="41" column="150" lean-forward="true" selection-start-line="41" selection-start-column="150" selection-end-line="41" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/videodto/VideoCreateDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/BlogPostHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="46" column="58" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="46" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/VideoHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="40" column="64" lean-forward="true" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/videodto/VideoItemDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/web/videodto/VideoDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/BlogHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/blogpost/BlogPostDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/BlogPostService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/ForumHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="25" column="47" selection-start-line="24" selection-start-column="8" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/model/forum/forumtopic/ForumTopicDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/VideoHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/ForumService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/mircella/blogserver/domain/service/VideoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>kz.mircella.blogserver</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: de.flapdoodle.embed:de.flapdoodle.embed.mongo:2.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.flapdoodle.embed/de.flapdoodle.embed.mongo/2.1.1/51f85f45f9e53d0b1a7c4564bf2337cce88b8a49/de.flapdoodle.embed.mongo-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.flapdoodle.embed/de.flapdoodle.embed.mongo/2.1.1/8e6291ba662e1327d42931ee71ceb91bc08d83c2/de.flapdoodle.embed.mongo-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

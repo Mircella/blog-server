@@ -1,0 +1,19 @@
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      max-request-size: 10MB
+      max-file-size: 10MB
+      file-size-threshold: 1MB
+  data:
+    mongodb:
+      host: localhost
+      port: 27019
+      database: blogserver
+  thymeleaf:
+    cache: false
+logging:
+  level:
+    kz.mircella.dataserver: debug
+server:
+  port: 8015

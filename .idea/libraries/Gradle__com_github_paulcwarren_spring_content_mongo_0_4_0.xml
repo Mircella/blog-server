@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.paulcwarren:spring-content-mongo:0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.paulcwarren/spring-content-mongo/0.4.0/59dd374b3eb1d0e1e5bd51f77678527d7252f747/spring-content-mongo-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.paulcwarren/spring-content-mongo/0.4.0/b53acff94cb78bb717d904c06c9f0cc3667cf296/spring-content-mongo-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
